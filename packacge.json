@@ -6,7 +6,7 @@
     "scripts": {
       "start": "nodemon app"
     },
-    "author": "Inpa",
+    "author": "WKLEE",
     "license": "ISC",
     "dependencies": {
       "cookie-parser": "^1.4.4",
